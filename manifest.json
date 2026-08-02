@@ -1,0 +1,13 @@
+{
+  "name": "Spur — get outside, do things.",
+  "short_name": "Spur",
+  "description": "Real plans happening near you in Toronto tonight. Join one, or start your own.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F0EBE0",
+  "theme_color": "#F0EBE0",
+  "icons": [
+    { "src": "/icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "maskable" }
+  ]
+}
